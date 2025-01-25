@@ -1,5 +1,5 @@
 ---
-<p align="center"style="font-size: 30px;">
+<p align="center" style= "font-size: 30px;">
   <br />
   I'm Harsh Karira 👋, a passionate web developer! 
 </p>
