@@ -10,8 +10,9 @@
 🔭 Graduated with a B.E. in Computer Science.<br><br>👯 I’m looking to collaborate on Web projects<br><br>🌱 I’m currently learning Web Development<br><br>💬 Ask me about Java<br><br>📫 How to reach me [kariraharsh2@gmail.com](mailto:kariraharsh2@gmail.com)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-karira) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarshKarira2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/harsh-karira)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/HarshKarira2)
+
 
 # 💻 Tech Stack:
 ## 🌐 LANGUAGES:
