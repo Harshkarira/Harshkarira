@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Harshkarira/Harshkarira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Harshkarira/Harshkarira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 💫 About Me:
 🔭 Graduated with a B.E. in Computer Science.<br><br>👯 I’m looking to collaborate on Web projects<br><br>🌱 I’m currently learning Web Development<br><br>💬 Ask me about Java<br><br>📫 How to reach me kariraharsh2@gmail.com
