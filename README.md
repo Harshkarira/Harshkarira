@@ -1,7 +1,7 @@
 ---
-<p align="center" style= "font-size: 30px;">
+<p align="center"
   <br />
-  I'm Harsh Karira 👋, a passionate web developer! 
+  <h1 I'm Harsh Karira 👋, a passionate web developer! </h1> 
 </p>
 
 # 💫 About Me:
