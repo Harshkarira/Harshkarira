@@ -3,10 +3,7 @@
 ### I'm Harsh Karira!
 
 ---
-
-<!-- Add this to center your "Hi there" message and the wave emoji -->
 <p align="center">
-  <img src="https://emojicdn.elk.sh/👋" width="50" height="50" />
   <br />
   I'm Harsh Karira, a passionate web developer! 
 </p>
