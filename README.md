@@ -1,8 +1,8 @@
 ---
-<p align="center"
+<h1 align="center"
   <br />
   I'm Harsh Karira 👋, a passionate web developer!
-</p>
+</h1>
 
 # 💫 About Me:
 🔭 Graduated with a B.E. in Computer Science.<br><br>👯 I’m looking to collaborate on Web projects<br><br>🌱 I’m currently learning Web Development<br><br>💬 Ask me about Java<br><br>📫 How to reach me [kariraharsh2@gmail.com](mailto:kariraharsh2@gmail.com)
