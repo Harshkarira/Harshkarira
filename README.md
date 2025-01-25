@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### I'm Harsh Karira!
+<h1 align="center"  ## Hi there 👋 I'm Harsh Karira </h1>
 
 ---
 <p align="center">
