@@ -1,9 +1,7 @@
-<h1 align="center"  ## Hi there 👋 I'm Harsh Karira </h1>
-
 ---
 <p align="center">
   <br />
-  I'm Harsh Karira, a passionate web developer! 
+  I'm Harsh Karira 👋, a passionate web developer! 
 </p>
 
 # 💫 About Me:
