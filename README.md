@@ -5,7 +5,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 Graduated with a B.E. in Computer Science.<br><br>👯 I’m looking to collaborate on Web projects<br><br>🌱 I’m currently learning Web Development<br><br>💬 Ask me about Java<br><br>📫 How to reach me [kariraharsh2@gmail.com](mailto:kariraharsh2@gmail.com)
+🔭 Graduated with a B.E. in Computer Science.<br><br>👯 I’m looking to collaborate on Web projects<br><br>🌱 I’m currently learning Data Engineering<br><br>💬 Ask me about Java<br><br>📫 How to reach me [kariraharsh2@gmail.com](mailto:kariraharsh2@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/harsh-karira)
@@ -27,6 +27,7 @@
 ## 🗄 DATABASES:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## 🎨 DESIGN:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
